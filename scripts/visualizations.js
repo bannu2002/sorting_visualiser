@@ -1,7 +1,7 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
+    DONE BY:-   kanigiri guru dattathreya
+    E-MAIL:-    gurudattu2002@gmail.com
     *****************
 */
 
@@ -59,7 +59,7 @@ function enable_buttons()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
+    DONE BY:-   kanigiri guru dattathreya
+    E-MAIL:-    gurudattu2002@gmail.com
     *****************
 */
