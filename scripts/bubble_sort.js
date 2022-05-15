@@ -1,7 +1,7 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
+    DONE BY:-   kanigiri guru dattathreya
+    E-MAIL:-    gurudattu2002@gmail.com
     *****************
 */
 
@@ -38,7 +38,7 @@ function Bubble()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
+    DONE BY:-   kanigiri guru dattathreya
+    E-MAIL:-    gurudattu2002@gmail.com
     *****************
 */
