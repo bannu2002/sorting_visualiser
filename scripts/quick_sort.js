@@ -1,7 +1,7 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
+    DONE BY:-   kanigiri guru dattathreya
+    E-MAIL:-    gurudattu2002@gmail.com
     *****************
 */
 
@@ -74,7 +74,7 @@ function quick_sort (start, end )
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
+    DONE BY:-   kanigiri guru dattathreya
+    E-MAIL:-    gurudattu2002@gmail.com
     *****************
 */
